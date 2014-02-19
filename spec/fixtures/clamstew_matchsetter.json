@@ -1,0 +1,2127 @@
+[
+  {
+    "sha": "72c96f9dd05579eb27b3365e29aee584fd983643",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2014-01-17T06:06:52Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2014-01-17T06:06:52Z"
+      },
+      "message": "Unnecessary Space added",
+      "tree": {
+        "sha": "b13abcd4f9ee11354268a97daafa762e8e029cd8",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/b13abcd4f9ee11354268a97daafa762e8e029cd8"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/72c96f9dd05579eb27b3365e29aee584fd983643",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/72c96f9dd05579eb27b3365e29aee584fd983643",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/72c96f9dd05579eb27b3365e29aee584fd983643",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/72c96f9dd05579eb27b3365e29aee584fd983643/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "37695ac8fd2ae12c93837858fc423659f2e5fe3d",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/37695ac8fd2ae12c93837858fc423659f2e5fe3d",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/37695ac8fd2ae12c93837858fc423659f2e5fe3d"
+      }
+    ]
+  },
+  {
+    "sha": "37695ac8fd2ae12c93837858fc423659f2e5fe3d",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-25T18:56:05Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-25T18:56:05Z"
+      },
+      "message": "merging stuff\nMerge branch 'add-availability-model'",
+      "tree": {
+        "sha": "0d5a05fee662bd48114a43537da593a4895581d9",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/0d5a05fee662bd48114a43537da593a4895581d9"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/37695ac8fd2ae12c93837858fc423659f2e5fe3d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/37695ac8fd2ae12c93837858fc423659f2e5fe3d",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/37695ac8fd2ae12c93837858fc423659f2e5fe3d",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/37695ac8fd2ae12c93837858fc423659f2e5fe3d/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b04db1b0d8b6056f5cb7a6830d3d516923c84630",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/b04db1b0d8b6056f5cb7a6830d3d516923c84630",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/b04db1b0d8b6056f5cb7a6830d3d516923c84630"
+      },
+      {
+        "sha": "8d7d583dd0bde5494ee9b3caa1945d2afe9c3433",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8d7d583dd0bde5494ee9b3caa1945d2afe9c3433",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/8d7d583dd0bde5494ee9b3caa1945d2afe9c3433"
+      }
+    ]
+  },
+  {
+    "sha": "8d7d583dd0bde5494ee9b3caa1945d2afe9c3433",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-25T14:29:03Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-25T14:29:03Z"
+      },
+      "message": "Add border radius to the table - it didn't take for some reason",
+      "tree": {
+        "sha": "bf1730d9a63ddcf8062f91aa373d68409ca94af1",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/bf1730d9a63ddcf8062f91aa373d68409ca94af1"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/8d7d583dd0bde5494ee9b3caa1945d2afe9c3433",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8d7d583dd0bde5494ee9b3caa1945d2afe9c3433",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/8d7d583dd0bde5494ee9b3caa1945d2afe9c3433",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/8d7d583dd0bde5494ee9b3caa1945d2afe9c3433/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f2450227f33771a1ef3282bfb70a586800e3d706",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/f2450227f33771a1ef3282bfb70a586800e3d706",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/f2450227f33771a1ef3282bfb70a586800e3d706"
+      }
+    ]
+  },
+  {
+    "sha": "f2450227f33771a1ef3282bfb70a586800e3d706",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-25T03:16:53Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-25T03:16:53Z"
+      },
+      "message": "Add styles for setting availability form'",
+      "tree": {
+        "sha": "30ddd9baf50908f8425961e931cbce39a7359791",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/30ddd9baf50908f8425961e931cbce39a7359791"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/f2450227f33771a1ef3282bfb70a586800e3d706",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/f2450227f33771a1ef3282bfb70a586800e3d706",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/f2450227f33771a1ef3282bfb70a586800e3d706",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/f2450227f33771a1ef3282bfb70a586800e3d706/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "55de961af993343b228eeee36cb326a459724dd5",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/55de961af993343b228eeee36cb326a459724dd5",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/55de961af993343b228eeee36cb326a459724dd5"
+      }
+    ]
+  },
+  {
+    "sha": "b04db1b0d8b6056f5cb7a6830d3d516923c84630",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T23:32:11Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T23:32:11Z"
+      },
+      "message": "merge conflict",
+      "tree": {
+        "sha": "b700cc1cff724067718dc744a1134919bcf00778",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/b700cc1cff724067718dc744a1134919bcf00778"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/b04db1b0d8b6056f5cb7a6830d3d516923c84630",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/b04db1b0d8b6056f5cb7a6830d3d516923c84630",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/b04db1b0d8b6056f5cb7a6830d3d516923c84630",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/b04db1b0d8b6056f5cb7a6830d3d516923c84630/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "71b786e496e7ecca519a391960ba055cb05a29d5",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/71b786e496e7ecca519a391960ba055cb05a29d5",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/71b786e496e7ecca519a391960ba055cb05a29d5"
+      },
+      {
+        "sha": "55de961af993343b228eeee36cb326a459724dd5",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/55de961af993343b228eeee36cb326a459724dd5",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/55de961af993343b228eeee36cb326a459724dd5"
+      }
+    ]
+  },
+  {
+    "sha": "55de961af993343b228eeee36cb326a459724dd5",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T23:31:32Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T23:31:32Z"
+      },
+      "message": "Implement the availability filtering on the /availability controller",
+      "tree": {
+        "sha": "02c685058d1c28a050e68ebe473d0638e7c90417",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/02c685058d1c28a050e68ebe473d0638e7c90417"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/55de961af993343b228eeee36cb326a459724dd5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/55de961af993343b228eeee36cb326a459724dd5",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/55de961af993343b228eeee36cb326a459724dd5",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/55de961af993343b228eeee36cb326a459724dd5/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9ed70201443925738d6be6a700773b331d86d4da",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/9ed70201443925738d6be6a700773b331d86d4da",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/9ed70201443925738d6be6a700773b331d86d4da"
+      }
+    ]
+  },
+  {
+    "sha": "71b786e496e7ecca519a391960ba055cb05a29d5",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T19:49:52Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T19:49:52Z"
+      },
+      "message": "minor changes",
+      "tree": {
+        "sha": "c48b97dbd27bde140e78db584d00a085b0b27bf1",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/c48b97dbd27bde140e78db584d00a085b0b27bf1"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/71b786e496e7ecca519a391960ba055cb05a29d5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/71b786e496e7ecca519a391960ba055cb05a29d5",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/71b786e496e7ecca519a391960ba055cb05a29d5",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/71b786e496e7ecca519a391960ba055cb05a29d5/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "aa3a1af6114aab719b688b01121b6df1ebab2507",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/aa3a1af6114aab719b688b01121b6df1ebab2507",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/aa3a1af6114aab719b688b01121b6df1ebab2507"
+      }
+    ]
+  },
+  {
+    "sha": "aa3a1af6114aab719b688b01121b6df1ebab2507",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T14:03:41Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T14:03:41Z"
+      },
+      "message": "Change icon for main pull drawer to font awesome 4.0",
+      "tree": {
+        "sha": "71e48f5d96ec3d100c8ded05a83f5519135bd8c9",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/71e48f5d96ec3d100c8ded05a83f5519135bd8c9"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/aa3a1af6114aab719b688b01121b6df1ebab2507",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/aa3a1af6114aab719b688b01121b6df1ebab2507",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/aa3a1af6114aab719b688b01121b6df1ebab2507",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/aa3a1af6114aab719b688b01121b6df1ebab2507/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7c940a1e5f72d9994b7566528b8f0da894101914",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/7c940a1e5f72d9994b7566528b8f0da894101914",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/7c940a1e5f72d9994b7566528b8f0da894101914"
+      }
+    ]
+  },
+  {
+    "sha": "9ed70201443925738d6be6a700773b331d86d4da",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T02:48:34Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-24T02:48:34Z"
+      },
+      "message": "add most of availability form. it is not currently all working. Added a tester route to see what is pushing out of availability/new",
+      "tree": {
+        "sha": "94a7ff4bc6271bc2a57d9a823c1a7da34e15e93f",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/94a7ff4bc6271bc2a57d9a823c1a7da34e15e93f"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/9ed70201443925738d6be6a700773b331d86d4da",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/9ed70201443925738d6be6a700773b331d86d4da",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/9ed70201443925738d6be6a700773b331d86d4da",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/9ed70201443925738d6be6a700773b331d86d4da/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6515e720ebb3264b26f973e1121485d2c9885591",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/6515e720ebb3264b26f973e1121485d2c9885591",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/6515e720ebb3264b26f973e1121485d2c9885591"
+      }
+    ]
+  },
+  {
+    "sha": "6515e720ebb3264b26f973e1121485d2c9885591",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T21:39:03Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T21:39:03Z"
+      },
+      "message": "add availability_slot table, add has_many relationship to user.rb",
+      "tree": {
+        "sha": "e2c554f9173fac9ce2977cbe5e89762ca0318708",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/e2c554f9173fac9ce2977cbe5e89762ca0318708"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/6515e720ebb3264b26f973e1121485d2c9885591",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/6515e720ebb3264b26f973e1121485d2c9885591",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/6515e720ebb3264b26f973e1121485d2c9885591",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/6515e720ebb3264b26f973e1121485d2c9885591/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7c940a1e5f72d9994b7566528b8f0da894101914",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/7c940a1e5f72d9994b7566528b8f0da894101914",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/7c940a1e5f72d9994b7566528b8f0da894101914"
+      }
+    ]
+  },
+  {
+    "sha": "7c940a1e5f72d9994b7566528b8f0da894101914",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T21:15:22Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T21:15:22Z"
+      },
+      "message": "Take away the link to club if the user does not have a home club",
+      "tree": {
+        "sha": "9983b5fa1f660a2af315e97cb2e395d736e7a5e1",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/9983b5fa1f660a2af315e97cb2e395d736e7a5e1"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/7c940a1e5f72d9994b7566528b8f0da894101914",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/7c940a1e5f72d9994b7566528b8f0da894101914",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/7c940a1e5f72d9994b7566528b8f0da894101914",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/7c940a1e5f72d9994b7566528b8f0da894101914/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "614e2ca0416f925831f29254dbeadfcd275e0488",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/614e2ca0416f925831f29254dbeadfcd275e0488",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/614e2ca0416f925831f29254dbeadfcd275e0488"
+      }
+    ]
+  },
+  {
+    "sha": "614e2ca0416f925831f29254dbeadfcd275e0488",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T20:59:13Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T20:59:13Z"
+      },
+      "message": "Upgrage most icons to font-awesome 4.0 which was released today",
+      "tree": {
+        "sha": "f159bbf9a8d5e2eff0e47864f00a50000a86f0fc",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/f159bbf9a8d5e2eff0e47864f00a50000a86f0fc"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/614e2ca0416f925831f29254dbeadfcd275e0488",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/614e2ca0416f925831f29254dbeadfcd275e0488",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/614e2ca0416f925831f29254dbeadfcd275e0488",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/614e2ca0416f925831f29254dbeadfcd275e0488/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "045bd1c910b90eabea3b8c4733e57586e4047828",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/045bd1c910b90eabea3b8c4733e57586e4047828",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/045bd1c910b90eabea3b8c4733e57586e4047828"
+      }
+    ]
+  },
+  {
+    "sha": "045bd1c910b90eabea3b8c4733e57586e4047828",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T20:12:02Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T20:12:02Z"
+      },
+      "message": "Add condition to else statment on show my home court peoples so it will show a placeholder image if user profile pic is nil",
+      "tree": {
+        "sha": "8a0249284d27a5be8cf9e4a10cc2cc08a74d2287",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/8a0249284d27a5be8cf9e4a10cc2cc08a74d2287"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/045bd1c910b90eabea3b8c4733e57586e4047828",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/045bd1c910b90eabea3b8c4733e57586e4047828",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/045bd1c910b90eabea3b8c4733e57586e4047828",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/045bd1c910b90eabea3b8c4733e57586e4047828/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "14029c77ecdd9fee5b6ab2c4938747b298c2ef9d",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/14029c77ecdd9fee5b6ab2c4938747b298c2ef9d",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/14029c77ecdd9fee5b6ab2c4938747b298c2ef9d"
+      }
+    ]
+  },
+  {
+    "sha": "14029c77ecdd9fee5b6ab2c4938747b298c2ef9d",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:58:10Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:58:10Z"
+      },
+      "message": "Try to get image working yet again",
+      "tree": {
+        "sha": "c4d2c162a1b40eff330db944097f72df9611809e",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/c4d2c162a1b40eff330db944097f72df9611809e"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/14029c77ecdd9fee5b6ab2c4938747b298c2ef9d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/14029c77ecdd9fee5b6ab2c4938747b298c2ef9d",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/14029c77ecdd9fee5b6ab2c4938747b298c2ef9d",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/14029c77ecdd9fee5b6ab2c4938747b298c2ef9d/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8a9c0ecf4176598de735f2281ffe694e6d0cd74b",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8a9c0ecf4176598de735f2281ffe694e6d0cd74b",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/8a9c0ecf4176598de735f2281ffe694e6d0cd74b"
+      }
+    ]
+  },
+  {
+    "sha": "8a9c0ecf4176598de735f2281ffe694e6d0cd74b",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:51:53Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:51:53Z"
+      },
+      "message": "Change config settings",
+      "tree": {
+        "sha": "740807e5a833266ac6d116a0dc62440651d770fb",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/740807e5a833266ac6d116a0dc62440651d770fb"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/8a9c0ecf4176598de735f2281ffe694e6d0cd74b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8a9c0ecf4176598de735f2281ffe694e6d0cd74b",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/8a9c0ecf4176598de735f2281ffe694e6d0cd74b",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/8a9c0ecf4176598de735f2281ffe694e6d0cd74b/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5dd416572a33a75b3beb2f5da3d922349a48e11f",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/5dd416572a33a75b3beb2f5da3d922349a48e11f",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/5dd416572a33a75b3beb2f5da3d922349a48e11f"
+      }
+    ]
+  },
+  {
+    "sha": "5dd416572a33a75b3beb2f5da3d922349a48e11f",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:38:47Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:38:47Z"
+      },
+      "message": "change production configs for images",
+      "tree": {
+        "sha": "4280fe8ecfc4185717c2b0a1552e3c017999f0f7",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/4280fe8ecfc4185717c2b0a1552e3c017999f0f7"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/5dd416572a33a75b3beb2f5da3d922349a48e11f",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/5dd416572a33a75b3beb2f5da3d922349a48e11f",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/5dd416572a33a75b3beb2f5da3d922349a48e11f",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/5dd416572a33a75b3beb2f5da3d922349a48e11f/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4"
+      }
+    ]
+  },
+  {
+    "sha": "a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:20:55Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:20:55Z"
+      },
+      "message": "merge with Taylor's UI change\nMerge branch 'master' of https://github.com/clamstew/matchsetter",
+      "tree": {
+        "sha": "e335f6ac8200e61559ea67cb8a3ee40c58e25ad1",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/e335f6ac8200e61559ea67cb8a3ee40c58e25ad1"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/a6de5bb1fa536b95c98f37bd6fdd0c1efc6355d4/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e324fe388951120f8292f00c676e6de95854b2ed",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/e324fe388951120f8292f00c676e6de95854b2ed",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/e324fe388951120f8292f00c676e6de95854b2ed"
+      },
+      {
+        "sha": "d62e8f21bbf71cbc4af66fa08b269b669d88f9c8",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/d62e8f21bbf71cbc4af66fa08b269b669d88f9c8",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/d62e8f21bbf71cbc4af66fa08b269b669d88f9c8"
+      }
+    ]
+  },
+  {
+    "sha": "e324fe388951120f8292f00c676e6de95854b2ed",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:20:44Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:20:44Z"
+      },
+      "message": "Add validation if not greater than 4 players. The UI will only allow you to choose 2 at this point, but the server could handle doubles matches at this point",
+      "tree": {
+        "sha": "6b5298cb2108b2095dfba9a86a4fd0d580452340",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/6b5298cb2108b2095dfba9a86a4fd0d580452340"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/e324fe388951120f8292f00c676e6de95854b2ed",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/e324fe388951120f8292f00c676e6de95854b2ed",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/e324fe388951120f8292f00c676e6de95854b2ed",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/e324fe388951120f8292f00c676e6de95854b2ed/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/48a0b41acd9f71c73879f9e2576a407059f4dd7b"
+      }
+    ]
+  },
+  {
+    "sha": "d62e8f21bbf71cbc4af66fa08b269b669d88f9c8",
+    "commit": {
+      "author": {
+        "name": "Taylor",
+        "email": "twsmith89@gmail.com",
+        "date": "2013-10-23T19:16:33Z"
+      },
+      "committer": {
+        "name": "Taylor",
+        "email": "twsmith89@gmail.com",
+        "date": "2013-10-23T19:16:33Z"
+      },
+      "message": "Adjust subtext on home page slightly\n\nMerge branch 'master' of https://github.com/clamstew/matchsetter",
+      "tree": {
+        "sha": "04d3e8effc785628ed6bb79a6e6bab1443e2b6d4",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/04d3e8effc785628ed6bb79a6e6bab1443e2b6d4"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/d62e8f21bbf71cbc4af66fa08b269b669d88f9c8",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/d62e8f21bbf71cbc4af66fa08b269b669d88f9c8",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/d62e8f21bbf71cbc4af66fa08b269b669d88f9c8",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/d62e8f21bbf71cbc4af66fa08b269b669d88f9c8/comments",
+    "author": {
+      "login": "taylor-smith",
+      "id": 862872,
+      "avatar_url": "https://gravatar.com/avatar/a1f9799485c9d653d3668638b88c57d6?d=https%3A%2F%2Fidenticons.github.com%2F4071fd89f6e4a36fa5d40791768c5684.png&r=x",
+      "gravatar_id": "a1f9799485c9d653d3668638b88c57d6",
+      "url": "https://api.github.com/users/taylor-smith",
+      "html_url": "https://github.com/taylor-smith",
+      "followers_url": "https://api.github.com/users/taylor-smith/followers",
+      "following_url": "https://api.github.com/users/taylor-smith/following{/other_user}",
+      "gists_url": "https://api.github.com/users/taylor-smith/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/taylor-smith/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/taylor-smith/subscriptions",
+      "organizations_url": "https://api.github.com/users/taylor-smith/orgs",
+      "repos_url": "https://api.github.com/users/taylor-smith/repos",
+      "events_url": "https://api.github.com/users/taylor-smith/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/taylor-smith/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "taylor-smith",
+      "id": 862872,
+      "avatar_url": "https://gravatar.com/avatar/a1f9799485c9d653d3668638b88c57d6?d=https%3A%2F%2Fidenticons.github.com%2F4071fd89f6e4a36fa5d40791768c5684.png&r=x",
+      "gravatar_id": "a1f9799485c9d653d3668638b88c57d6",
+      "url": "https://api.github.com/users/taylor-smith",
+      "html_url": "https://github.com/taylor-smith",
+      "followers_url": "https://api.github.com/users/taylor-smith/followers",
+      "following_url": "https://api.github.com/users/taylor-smith/following{/other_user}",
+      "gists_url": "https://api.github.com/users/taylor-smith/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/taylor-smith/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/taylor-smith/subscriptions",
+      "organizations_url": "https://api.github.com/users/taylor-smith/orgs",
+      "repos_url": "https://api.github.com/users/taylor-smith/repos",
+      "events_url": "https://api.github.com/users/taylor-smith/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/taylor-smith/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3ce471f16c02d66a0947a6ea9171b4b4d3661c49",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/3ce471f16c02d66a0947a6ea9171b4b4d3661c49",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/3ce471f16c02d66a0947a6ea9171b4b4d3661c49"
+      },
+      {
+        "sha": "48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/48a0b41acd9f71c73879f9e2576a407059f4dd7b"
+      }
+    ]
+  },
+  {
+    "sha": "48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:15:32Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T19:15:32Z"
+      },
+      "message": "Add validation that a match must have at least 1 opponent",
+      "tree": {
+        "sha": "ea328f8994f2c24fafced137a49bb46028c0e327",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/ea328f8994f2c24fafced137a49bb46028c0e327"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/48a0b41acd9f71c73879f9e2576a407059f4dd7b",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/48a0b41acd9f71c73879f9e2576a407059f4dd7b/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "af73b2b74a0172b9615b7fc38a49fca7233b470b",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/af73b2b74a0172b9615b7fc38a49fca7233b470b",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/af73b2b74a0172b9615b7fc38a49fca7233b470b"
+      }
+    ]
+  },
+  {
+    "sha": "3ce471f16c02d66a0947a6ea9171b4b4d3661c49",
+    "commit": {
+      "author": {
+        "name": "Taylor",
+        "email": "twsmith89@gmail.com",
+        "date": "2013-10-23T18:52:47Z"
+      },
+      "committer": {
+        "name": "Taylor",
+        "email": "twsmith89@gmail.com",
+        "date": "2013-10-23T18:52:47Z"
+      },
+      "message": "Alter alignment of subtext on main page\n\nMerge branch 'taylor-home-page-work'",
+      "tree": {
+        "sha": "7cca5b4263e0c83c2668962aff5522a4905734ab",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/7cca5b4263e0c83c2668962aff5522a4905734ab"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/3ce471f16c02d66a0947a6ea9171b4b4d3661c49",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/3ce471f16c02d66a0947a6ea9171b4b4d3661c49",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/3ce471f16c02d66a0947a6ea9171b4b4d3661c49",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/3ce471f16c02d66a0947a6ea9171b4b4d3661c49/comments",
+    "author": {
+      "login": "taylor-smith",
+      "id": 862872,
+      "avatar_url": "https://gravatar.com/avatar/a1f9799485c9d653d3668638b88c57d6?d=https%3A%2F%2Fidenticons.github.com%2F4071fd89f6e4a36fa5d40791768c5684.png&r=x",
+      "gravatar_id": "a1f9799485c9d653d3668638b88c57d6",
+      "url": "https://api.github.com/users/taylor-smith",
+      "html_url": "https://github.com/taylor-smith",
+      "followers_url": "https://api.github.com/users/taylor-smith/followers",
+      "following_url": "https://api.github.com/users/taylor-smith/following{/other_user}",
+      "gists_url": "https://api.github.com/users/taylor-smith/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/taylor-smith/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/taylor-smith/subscriptions",
+      "organizations_url": "https://api.github.com/users/taylor-smith/orgs",
+      "repos_url": "https://api.github.com/users/taylor-smith/repos",
+      "events_url": "https://api.github.com/users/taylor-smith/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/taylor-smith/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "taylor-smith",
+      "id": 862872,
+      "avatar_url": "https://gravatar.com/avatar/a1f9799485c9d653d3668638b88c57d6?d=https%3A%2F%2Fidenticons.github.com%2F4071fd89f6e4a36fa5d40791768c5684.png&r=x",
+      "gravatar_id": "a1f9799485c9d653d3668638b88c57d6",
+      "url": "https://api.github.com/users/taylor-smith",
+      "html_url": "https://github.com/taylor-smith",
+      "followers_url": "https://api.github.com/users/taylor-smith/followers",
+      "following_url": "https://api.github.com/users/taylor-smith/following{/other_user}",
+      "gists_url": "https://api.github.com/users/taylor-smith/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/taylor-smith/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/taylor-smith/subscriptions",
+      "organizations_url": "https://api.github.com/users/taylor-smith/orgs",
+      "repos_url": "https://api.github.com/users/taylor-smith/repos",
+      "events_url": "https://api.github.com/users/taylor-smith/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/taylor-smith/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "af73b2b74a0172b9615b7fc38a49fca7233b470b",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/af73b2b74a0172b9615b7fc38a49fca7233b470b",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/af73b2b74a0172b9615b7fc38a49fca7233b470b"
+      },
+      {
+        "sha": "a89f90bbfef9cb861221c991ae71bc1d729e15c4",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/a89f90bbfef9cb861221c991ae71bc1d729e15c4",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/a89f90bbfef9cb861221c991ae71bc1d729e15c4"
+      }
+    ]
+  },
+  {
+    "sha": "af73b2b74a0172b9615b7fc38a49fca7233b470b",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T17:48:55Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T17:48:55Z"
+      },
+      "message": "Try to format errors better",
+      "tree": {
+        "sha": "c7a6c7dc1477acd85df629f36c6a5e784d3392aa",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/c7a6c7dc1477acd85df629f36c6a5e784d3392aa"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/af73b2b74a0172b9615b7fc38a49fca7233b470b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/af73b2b74a0172b9615b7fc38a49fca7233b470b",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/af73b2b74a0172b9615b7fc38a49fca7233b470b",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/af73b2b74a0172b9615b7fc38a49fca7233b470b/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6b5b3b9a78aab671b2ad3abb01c16856994e2fdd",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/6b5b3b9a78aab671b2ad3abb01c16856994e2fdd",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/6b5b3b9a78aab671b2ad3abb01c16856994e2fdd"
+      }
+    ]
+  },
+  {
+    "sha": "6b5b3b9a78aab671b2ad3abb01c16856994e2fdd",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T00:36:37Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-23T00:36:37Z"
+      },
+      "message": "Add validation to make sure a match has at least 2 players, and cleaned up the controller",
+      "tree": {
+        "sha": "2f3285f9470fe01b95a443bb69a6fa6d4e389d10",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/2f3285f9470fe01b95a443bb69a6fa6d4e389d10"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/6b5b3b9a78aab671b2ad3abb01c16856994e2fdd",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/6b5b3b9a78aab671b2ad3abb01c16856994e2fdd",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/6b5b3b9a78aab671b2ad3abb01c16856994e2fdd",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/6b5b3b9a78aab671b2ad3abb01c16856994e2fdd/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8de65f700307b8c437fb07dfea490a23867aa8b0",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8de65f700307b8c437fb07dfea490a23867aa8b0",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/8de65f700307b8c437fb07dfea490a23867aa8b0"
+      }
+    ]
+  },
+  {
+    "sha": "a89f90bbfef9cb861221c991ae71bc1d729e15c4",
+    "commit": {
+      "author": {
+        "name": "Taylor",
+        "email": "twsmith89@gmail.com",
+        "date": "2013-10-22T19:54:04Z"
+      },
+      "committer": {
+        "name": "Taylor",
+        "email": "twsmith89@gmail.com",
+        "date": "2013-10-22T19:54:04Z"
+      },
+      "message": "center homepage-big-icon-subtext",
+      "tree": {
+        "sha": "789f0d9ed33d140282299adc73133ae6df56c7aa",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/789f0d9ed33d140282299adc73133ae6df56c7aa"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/a89f90bbfef9cb861221c991ae71bc1d729e15c4",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/a89f90bbfef9cb861221c991ae71bc1d729e15c4",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/a89f90bbfef9cb861221c991ae71bc1d729e15c4",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/a89f90bbfef9cb861221c991ae71bc1d729e15c4/comments",
+    "author": {
+      "login": "taylor-smith",
+      "id": 862872,
+      "avatar_url": "https://gravatar.com/avatar/a1f9799485c9d653d3668638b88c57d6?d=https%3A%2F%2Fidenticons.github.com%2F4071fd89f6e4a36fa5d40791768c5684.png&r=x",
+      "gravatar_id": "a1f9799485c9d653d3668638b88c57d6",
+      "url": "https://api.github.com/users/taylor-smith",
+      "html_url": "https://github.com/taylor-smith",
+      "followers_url": "https://api.github.com/users/taylor-smith/followers",
+      "following_url": "https://api.github.com/users/taylor-smith/following{/other_user}",
+      "gists_url": "https://api.github.com/users/taylor-smith/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/taylor-smith/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/taylor-smith/subscriptions",
+      "organizations_url": "https://api.github.com/users/taylor-smith/orgs",
+      "repos_url": "https://api.github.com/users/taylor-smith/repos",
+      "events_url": "https://api.github.com/users/taylor-smith/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/taylor-smith/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "taylor-smith",
+      "id": 862872,
+      "avatar_url": "https://gravatar.com/avatar/a1f9799485c9d653d3668638b88c57d6?d=https%3A%2F%2Fidenticons.github.com%2F4071fd89f6e4a36fa5d40791768c5684.png&r=x",
+      "gravatar_id": "a1f9799485c9d653d3668638b88c57d6",
+      "url": "https://api.github.com/users/taylor-smith",
+      "html_url": "https://github.com/taylor-smith",
+      "followers_url": "https://api.github.com/users/taylor-smith/followers",
+      "following_url": "https://api.github.com/users/taylor-smith/following{/other_user}",
+      "gists_url": "https://api.github.com/users/taylor-smith/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/taylor-smith/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/taylor-smith/subscriptions",
+      "organizations_url": "https://api.github.com/users/taylor-smith/orgs",
+      "repos_url": "https://api.github.com/users/taylor-smith/repos",
+      "events_url": "https://api.github.com/users/taylor-smith/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/taylor-smith/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8de65f700307b8c437fb07dfea490a23867aa8b0",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8de65f700307b8c437fb07dfea490a23867aa8b0",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/8de65f700307b8c437fb07dfea490a23867aa8b0"
+      }
+    ]
+  },
+  {
+    "sha": "8de65f700307b8c437fb07dfea490a23867aa8b0",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-22T19:34:49Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-22T19:34:49Z"
+      },
+      "message": "Add redirect and model names - will switch to a branch to finish it out.",
+      "tree": {
+        "sha": "0f0c23bc1abafb0bec63f67a280ad96c04faf60f",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/0f0c23bc1abafb0bec63f67a280ad96c04faf60f"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/8de65f700307b8c437fb07dfea490a23867aa8b0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/8de65f700307b8c437fb07dfea490a23867aa8b0",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/8de65f700307b8c437fb07dfea490a23867aa8b0",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/8de65f700307b8c437fb07dfea490a23867aa8b0/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "99d00e211a2a2b62066513f14151fded6d51534c",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/99d00e211a2a2b62066513f14151fded6d51534c",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/99d00e211a2a2b62066513f14151fded6d51534c"
+      }
+    ]
+  },
+  {
+    "sha": "99d00e211a2a2b62066513f14151fded6d51534c",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-22T14:01:38Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-22T14:01:38Z"
+      },
+      "message": "Add proper redirects on the edit profile",
+      "tree": {
+        "sha": "8d2feccf54c1db6af051e772056ce22f65822cee",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/8d2feccf54c1db6af051e772056ce22f65822cee"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/99d00e211a2a2b62066513f14151fded6d51534c",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/99d00e211a2a2b62066513f14151fded6d51534c",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/99d00e211a2a2b62066513f14151fded6d51534c",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/99d00e211a2a2b62066513f14151fded6d51534c/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "93055bec08eb3bcbaa891b202c2994487fde7f60",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/93055bec08eb3bcbaa891b202c2994487fde7f60",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/93055bec08eb3bcbaa891b202c2994487fde7f60"
+      }
+    ]
+  },
+  {
+    "sha": "93055bec08eb3bcbaa891b202c2994487fde7f60",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T23:05:09Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T23:05:09Z"
+      },
+      "message": "Add favicon and about page",
+      "tree": {
+        "sha": "6c804116c50406ab2b52b78409eba225945c9a10",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/6c804116c50406ab2b52b78409eba225945c9a10"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/93055bec08eb3bcbaa891b202c2994487fde7f60",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/93055bec08eb3bcbaa891b202c2994487fde7f60",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/93055bec08eb3bcbaa891b202c2994487fde7f60",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/93055bec08eb3bcbaa891b202c2994487fde7f60/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "64f943be47152413990f2d3e74e65fb4cb71b160",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/64f943be47152413990f2d3e74e65fb4cb71b160",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/64f943be47152413990f2d3e74e65fb4cb71b160"
+      }
+    ]
+  },
+  {
+    "sha": "64f943be47152413990f2d3e74e65fb4cb71b160",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T22:28:06Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T22:28:06Z"
+      },
+      "message": "remove http to https in a few places for security reasons",
+      "tree": {
+        "sha": "902663a1acf6ca9b881013db2838017f9509f419",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/902663a1acf6ca9b881013db2838017f9509f419"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/64f943be47152413990f2d3e74e65fb4cb71b160",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/64f943be47152413990f2d3e74e65fb4cb71b160",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/64f943be47152413990f2d3e74e65fb4cb71b160",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/64f943be47152413990f2d3e74e65fb4cb71b160/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "928d2a3c0c6b715af11267344f93d5a032770ff5",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/928d2a3c0c6b715af11267344f93d5a032770ff5",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/928d2a3c0c6b715af11267344f93d5a032770ff5"
+      }
+    ]
+  },
+  {
+    "sha": "928d2a3c0c6b715af11267344f93d5a032770ff5",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T22:21:28Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T22:21:28Z"
+      },
+      "message": "Change some of the branding",
+      "tree": {
+        "sha": "1c41d01b2f46af1439be3454c5f6344cff256c86",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/1c41d01b2f46af1439be3454c5f6344cff256c86"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/928d2a3c0c6b715af11267344f93d5a032770ff5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/928d2a3c0c6b715af11267344f93d5a032770ff5",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/928d2a3c0c6b715af11267344f93d5a032770ff5",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/928d2a3c0c6b715af11267344f93d5a032770ff5/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3048dad64e66adc8b33aca972fa46c03dfbeb32b",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/3048dad64e66adc8b33aca972fa46c03dfbeb32b",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/3048dad64e66adc8b33aca972fa46c03dfbeb32b"
+      }
+    ]
+  },
+  {
+    "sha": "3048dad64e66adc8b33aca972fa46c03dfbeb32b",
+    "commit": {
+      "author": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T22:01:48Z"
+      },
+      "committer": {
+        "name": "Clay Stewart",
+        "email": "claytonmstewart@gmail.com",
+        "date": "2013-10-20T22:01:48Z"
+      },
+      "message": "Add more styles",
+      "tree": {
+        "sha": "18db07e47cf72803e515b9e2e59fd34c230e1cd1",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/git/trees/18db07e47cf72803e515b9e2e59fd34c230e1cd1"
+      },
+      "url": "https://api.github.com/repos/clamstew/matchsetter/git/commits/3048dad64e66adc8b33aca972fa46c03dfbeb32b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/clamstew/matchsetter/commits/3048dad64e66adc8b33aca972fa46c03dfbeb32b",
+    "html_url": "https://github.com/clamstew/matchsetter/commit/3048dad64e66adc8b33aca972fa46c03dfbeb32b",
+    "comments_url": "https://api.github.com/repos/clamstew/matchsetter/commits/3048dad64e66adc8b33aca972fa46c03dfbeb32b/comments",
+    "author": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "clamstew",
+      "id": 4318715,
+      "avatar_url": "https://gravatar.com/avatar/4160d85e44344f10d06edf3f2b9ee97c?d=https%3A%2F%2Fidenticons.github.com%2F8ec2b7ae4246d0d0ff654092b9f7171e.png&r=x",
+      "gravatar_id": "4160d85e44344f10d06edf3f2b9ee97c",
+      "url": "https://api.github.com/users/clamstew",
+      "html_url": "https://github.com/clamstew",
+      "followers_url": "https://api.github.com/users/clamstew/followers",
+      "following_url": "https://api.github.com/users/clamstew/following{/other_user}",
+      "gists_url": "https://api.github.com/users/clamstew/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/clamstew/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/clamstew/subscriptions",
+      "organizations_url": "https://api.github.com/users/clamstew/orgs",
+      "repos_url": "https://api.github.com/users/clamstew/repos",
+      "events_url": "https://api.github.com/users/clamstew/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/clamstew/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e3dac06f37d80b45cf8b7f312385ed125cc321f4",
+        "url": "https://api.github.com/repos/clamstew/matchsetter/commits/e3dac06f37d80b45cf8b7f312385ed125cc321f4",
+        "html_url": "https://github.com/clamstew/matchsetter/commit/e3dac06f37d80b45cf8b7f312385ed125cc321f4"
+      }
+    ]
+  }
+]

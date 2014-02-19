@@ -7,3 +7,12 @@ gem 'sinatra-contrib'
 gem 'pry'
 # for testing
 gem 'rspec'
+
+# for parsing json
+gem 'json'
+gem 'unirest'
+
+gem 'shotgun'
+
+# for hiding 
+# gem 'figaro'
