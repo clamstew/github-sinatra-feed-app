@@ -1,14 +1,29 @@
-/*Any custom css can go here*/
+/* Application specific CSS */
+
+/* make the background grey */
 body { background: #eee; }
+
+/* nice little feed boxes in the middle column */
 .feed-item { 
   background: #fff;
   padding: 20px 0;
+  /* make the border pretty */
   box-shadow: 0 1px 1px rgba(0,0,0,0.2);
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
 }
+
+/* spread our the feed boxes */
 .row.feed-item {  margin-bottom: 10px; }
+
+/* put some space between the code icon and the link to diff */
 .feed-item i.fa-code { margin-right: 10px; }
+
+/* move the repo name down from the top - move over vertical-align! */
 header p.repo-name { margin-top: 30px; }
+/* make the main logo mks blue */
+header h1 { color: #1189d9; }
+
+/* center the text in the footer */
 footer h1 { text-align: center; }
