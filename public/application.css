@@ -1,8 +1,5 @@
 /*Any custom css can go here*/
-body { 
-  /*background: url('http://i.imgur.com/fh5SW7O.jpg'); */
-  background: #eee; 
-}
+body { background: #eee; }
 .feed-item { 
   background: #fff;
   padding: 20px 0;
@@ -13,4 +10,5 @@ body {
 }
 .row.feed-item {  margin-bottom: 10px; }
 .feed-item i.fa-code { margin-right: 10px; }
-
+header p.repo-name { margin-top: 30px; }
+footer h1 { text-align: center; }

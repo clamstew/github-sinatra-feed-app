@@ -6,7 +6,7 @@ require 'json'
 require_relative 'lib/github'
 
 set :bind, '0.0.0.0' # Vagrant fix
-set :port, 9494
+set :port, 9797
 
 get '/' do
   "Hey, this is a web app"

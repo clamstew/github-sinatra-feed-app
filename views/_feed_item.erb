@@ -18,6 +18,7 @@
     </div>
     <div>
       <i class="fa fa-code"></i><a href="<%= commit["html_url"]  %>" target="_blank">View Commit Diff</a>
+      <span style="float:right;"><strong><small><i class="fa fa-clock-o"></i> <%= DateTime.iso8601(commit["commit"]["author"]["date"]).strftime("%m/%d/%Y at %I:%M%p") %></small></strong></span>
     </div>
   </div>
 </div>
