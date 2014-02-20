@@ -19,16 +19,14 @@ header h1 { color: #1189d9; }
   border-radius: 2px;
 }
 
-/* spread our the feed boxes */
+/* spread out the feed boxes */
 .row.feed-item {  margin-bottom: 10px; }
 
 /* put some space between the code icon and the link to diff */
 .feed-item i.fa-code { margin-right: 10px; }
 
 /* put the closer X in the top right of the ad */
-.closer {
-  float: right;
-}
+.closer { float: right; }
 
 /* center the text in the footer */
 footer h1 { text-align: center; }
