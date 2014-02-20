@@ -20,10 +20,10 @@ body { background: #eee; }
 /* put some space between the code icon and the link to diff */
 .feed-item i.fa-code { margin-right: 10px; }
 
-/* move the repo name down from the top - move over vertical-align! */
-header p.repo-name { margin-top: 30px; }
-/* make the main logo mks blue */
-header h1 { color: #1189d9; }
+/* put the closer X in the top right of the ad */
+.closer {
+  float: right;
+}
 
 /* center the text in the footer */
 footer h1 { text-align: center; }
