@@ -3,6 +3,11 @@
 /* make the background grey */
 body { background: #eee; }
 
+/* move the repo name down from the top - move over vertical-align! */
+header p.repo-name { margin-top: 30px; }
+/* make the main logo mks blue */
+header h1 { color: #1189d9; }
+
 /* nice little feed boxes in the middle column */
 .feed-item { 
   background: #fff;
