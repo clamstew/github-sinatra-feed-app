@@ -24,6 +24,7 @@ end
 
 # route with a layout
 get '/feed/:username/:reponame' do
+  @user_info = {}
 	@commits_hash = GHFeed::RepoInfo.get_repo_data(params[:username].to_s, params[:reponame].to_s)
 	erb :feed
 end

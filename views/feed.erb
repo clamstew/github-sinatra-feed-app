@@ -1,8 +1,3 @@
-feed goes here!
-
-<%#= @commits_hash.inspect %>
-
 <% @commits_hash.each do |c| %>
   <%= erb :_feed_item, locals: {commit: c} %>
-  <hr />
 <% end %>

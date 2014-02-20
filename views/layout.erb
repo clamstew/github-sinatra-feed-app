@@ -1,31 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
         <meta charset="UTF-8" />
-        <title>My Github Feed</title>
-
-        <link rel="stylesheet" href="application.css" type="text/css" />
+        <title>The Repo Feeder</title>
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/foundation/4.3.1/css/foundation.min.css">
-        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <link rel="stylesheet" href="/application.css" type="text/css" />
     </head>
-
     <body>
-        <%= erb :_header %>
+        <header class="row">
+            <%= erb :_header %>
+        </header>
         <div class="row">
             <div class="large-3 columns">
-            	profiel here
+                <%= erb :_user_info %>
             </div>
             <div class="large-6 columns">
                 <%= yield %>
             </div>
             <div class="large-3 columns">
-            	ads here
+                <%= erb :_ads_left_column %>
             </div>
         </div>
         <%= erb :_footer %>
         <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/2.0.3/jquery-2.0.3.js"></script>
-        <script type="text/javascript" src="application.js"></script>
+        <script type="text/javascript" src="/application.js"></script>
         <%# possibly add in foundation js here - not necessary %>
     </body>
 </html>

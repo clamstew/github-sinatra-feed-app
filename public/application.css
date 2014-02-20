@@ -1,0 +1,16 @@
+/*Any custom css can go here*/
+body { 
+  /*background: url('http://i.imgur.com/fh5SW7O.jpg'); */
+  background: #eee; 
+}
+.feed-item { 
+  background: #fff;
+  padding: 20px 0;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+.row.feed-item {  margin-bottom: 10px; }
+.feed-item i.fa-code { margin-right: 10px; }
+

@@ -1,1 +1,23 @@
-<%= commit.inspect %>
+<div class="row feed-item">
+  <div class="large-3 columns">
+    <a href="http://github.com/<%= commit["author"]["login"] %>" target="_blank">
+      <img src="https://secure.gravatar.com/avatar/<%= commit["author"]["gravatar_id"]  %>" />
+    </a>
+  </div>
+  <div class="large-9 columns">
+    <div>
+      <strong>Author:</strong>
+      <a href="http://github.com/<%= commit["author"]["login"] %>" target="_blank">
+        <%= commit["commit"]["author"]["name"]  %>
+      </a>
+      <br />
+    </div>
+    <div>
+      <strong>Commit Message:</strong> <%= commit["commit"]["message"]  %>
+      <br /><br />
+    </div>
+    <div>
+      <i class="fa fa-code"></i><a href="<%= commit["html_url"]  %>" target="_blank">View Commit Diff</a>
+    </div>
+  </div>
+</div>
