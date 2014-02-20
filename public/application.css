@@ -6,10 +6,13 @@ body { background: #eee; }
 /* move the repo name down from the top - move over vertical-align! */
 header p.repo-name { margin-top: 30px; }
 /* make the main logo mks blue */
-header h1 { color: #1189d9; }
+header h1 {
+  color: #1189d9;
+  text-shadow: 2px 2px 2px #FFFFFF;
+}
 
 /* nice little feed boxes in the middle column */
-.feed-item { 
+.feed-item {
   background: #fff;
   padding: 20px 0;
   /* make the border pretty */
@@ -20,7 +23,7 @@ header h1 { color: #1189d9; }
 }
 
 /* spread out the feed boxes */
-.row.feed-item {  margin-bottom: 10px; }
+.row.feed-item { margin-bottom: 10px; }
 
 /* put some space between the code icon and the link to diff */
 .feed-item i.fa-code { margin-right: 10px; }
